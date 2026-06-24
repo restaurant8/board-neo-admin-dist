@@ -1,0 +1,1 @@
+import{t as e}from"./unauthorized-error-FRozt2cg.js";var t=e;export{t as component};

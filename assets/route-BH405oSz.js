@@ -1,0 +1,1 @@
+import{t as e}from"./authenticated-layout-C4Ckb_RH.js";var t=e;export{t as component};
