@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-BmagUmvw.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{t as e}from"./authenticated-layout-BanX2_Pr.js";var t=e;export{t as component};
