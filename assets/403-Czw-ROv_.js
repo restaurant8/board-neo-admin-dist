@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-MxQ-64uy.js";var t=e;export{t as component};
