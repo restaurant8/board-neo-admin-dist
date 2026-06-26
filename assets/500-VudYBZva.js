@@ -1,0 +1,1 @@
+import{j as e}from"./index-5tSwstVJ.js";var t=e;export{t as component};
