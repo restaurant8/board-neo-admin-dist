@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-o2gndHK5.js";var t=e;export{t as component};

@@ -1,1 +1,0 @@
-import{t as e}from"./authenticated-layout-BFCuUTLV.js";var t=e;export{t as component};
