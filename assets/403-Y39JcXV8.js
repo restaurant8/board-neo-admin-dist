@@ -1,1 +1,0 @@
-import{t as e}from"./forbidden-Bi95Bhf6.js";var t=e;export{t as component};
