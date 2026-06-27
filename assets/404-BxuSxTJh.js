@@ -1,1 +1,0 @@
-import{A as e}from"./index-q1LIFfc0.js";var t=e;export{t as component};
