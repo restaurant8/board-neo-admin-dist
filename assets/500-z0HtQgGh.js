@@ -1,0 +1,1 @@
+import{j as e}from"./index-D3V8havm.js";var t=e;export{t as component};
