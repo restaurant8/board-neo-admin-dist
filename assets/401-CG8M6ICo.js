@@ -1,1 +1,0 @@
-import{t as e}from"./unauthorized-error-BfoHCX_V.js";var t=e;export{t as component};
