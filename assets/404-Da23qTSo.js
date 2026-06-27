@@ -1,0 +1,1 @@
+import{M as e}from"./index-B_FTk24a.js";var t=e;export{t as component};

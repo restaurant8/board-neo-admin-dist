@@ -1,1 +1,0 @@
-import{M as e}from"./index-D3K_uCRv.js";var t=e;export{t as component};
