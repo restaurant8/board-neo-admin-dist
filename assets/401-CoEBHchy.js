@@ -1,0 +1,1 @@
+import{t as e}from"./unauthorized-error-DAFSmVcW.js";var t=e;export{t as component};
