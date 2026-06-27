@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-BM5cuMor.js";var t=e;export{t as component};
