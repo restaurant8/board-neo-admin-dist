@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-COfy9dUI.js";var t=e;export{t as component};
