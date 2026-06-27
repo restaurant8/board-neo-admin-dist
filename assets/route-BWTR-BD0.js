@@ -1,0 +1,1 @@
+import{t as e}from"./authenticated-layout-BGE_nYcT.js";var t=e;export{t as component};
