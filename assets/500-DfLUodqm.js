@@ -1,1 +1,0 @@
-import{N as e}from"./index-DcbWhk2x.js";var t=e;export{t as component};
