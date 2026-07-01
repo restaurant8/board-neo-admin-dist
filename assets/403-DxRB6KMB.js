@@ -1,0 +1,1 @@
+import{t as e}from"./forbidden-BhrgNyob.js";var t=e;export{t as component};
