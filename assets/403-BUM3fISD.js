@@ -1,1 +1,0 @@
-import{t as e}from"./forbidden-DAZn2WSw.js";var t=e;export{t as component};
