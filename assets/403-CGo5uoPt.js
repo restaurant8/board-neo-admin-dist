@@ -1,1 +1,0 @@
-import{t as e}from"./forbidden-CUfFo-zx.js";var t=e;export{t as component};
