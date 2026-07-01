@@ -1,0 +1,1 @@
+import{t as e}from"./authenticated-layout-CMIoen6V.js";var t=e;export{t as component};
