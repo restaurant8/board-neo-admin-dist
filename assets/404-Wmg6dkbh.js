@@ -1,0 +1,1 @@
+import{p as e}from"./index-DLYsGWp0.js";var t=e;export{t as component};
