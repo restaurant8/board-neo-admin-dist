@@ -1,0 +1,1 @@
+import{m as e}from"./index-CbOM_vGh.js";var t=e;export{t as component};
