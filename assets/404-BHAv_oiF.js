@@ -1,0 +1,1 @@
+import{p as e}from"./index-Bhi_p3ka.js";var t=e;export{t as component};
