@@ -1,1 +1,0 @@
-import{p as e}from"./index-CWls-QYj.js";var t=e;export{t as component};
