@@ -1,0 +1,1 @@
+import{p as e}from"./index-BuYJNe7z.js";var t=e;export{t as component};
