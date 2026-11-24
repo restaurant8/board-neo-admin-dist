@@ -1,0 +1,1 @@
+import{p as e}from"./index-4tN_KeZk.js";var t=e;export{t as component};
